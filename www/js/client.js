@@ -90,7 +90,6 @@ var countTime;
 // init audio-video
 var initAudioBtn;
 var initVideoBtn;
-// left buttons
 var leftButtons;
 var shareRoomBtn;
 var audioBtn;
